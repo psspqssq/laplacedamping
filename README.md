@@ -38,6 +38,6 @@ La simulación utiliza métodos numéricos para calcular la respuesta del sistem
 
 ---
 
-Esperamos que esta aplicación te ayude a comprender mejor los conceptos relacionados con osciladores armónicos amortiguados. Si tienes alguna pregunta o sugerencia, no dudes en crear un issue en este repositorio.
-
-¡Gracias por usar la Simulación del Oscilador Armónico Amortiguado!
+Alumno: Pablo Silva
+Materia: Matematicas para Ingenieria II
+Maestro: Luis Ceseña
